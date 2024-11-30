@@ -95,14 +95,12 @@ python enc1.2.5.py
 
 ---
 
-Dokumentasi
-Pelajari ASCII convert: Video
-Cara kerja fungsi encrypt & decrypt: Video
+Pelajari lebih lanjut tentang [ASCII Convert](https://youtu.be/x71kJyNvB5o?si=xhRIl1WwzKetasyJ) dan cara kerja [fungsi Encrypt & Decrypt](https://youtu.be/QYng_rXg5OQ?si=R3QxmMEJW0GmafT9).
 
 
 Lisensi
 
-MIT License © 2024 Dimaz Rizky
+[MIT License](https://github.com/DimazRizky/Caesar-chiper.py/blob/main/LICENSE) © 2024 Dimaz Rizky
 
 
 ---
